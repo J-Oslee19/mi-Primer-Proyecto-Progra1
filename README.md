@@ -1,2 +1,3 @@
 # mi-Primer-Proyecto-Progra1
-Mi primer proyecto
+
+Este es un proyecto de practica para aprender Git y GitHub de programacion 1
