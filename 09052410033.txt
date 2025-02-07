@@ -1,0 +1,33 @@
+Preguntas de Litzi:
+
+        ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub? El flujo de trabajo implica clonar el 
+        repositorio, crear ramas para nuevas funcionalidades, hacer cambios y subirlos, y luego revisar y fusionar 
+        esos cambios con el equipo.
+
+        ¿Cómo fue la experiencia de trabajar en parejas? Mi experiencia trabajando en parejas fue bastante positiva, aunque, 
+        como todo trabajo en equipo, también tuvo sus desafíos. Lo que más me gustó fue poder compartir ideas y aprender de la otra 
+        persona. A veces uno tiene una perspectiva diferente que puede ayudar a mejorar la solución a un problema, y eso hace que 
+        el proyecto sea más sólido. Además, al dividir el trabajo, las tareas se hicieron más manejables y avanzamos más rápido.
+
+        ¿Encontraste algún conflicto? El primer conflito que encontramos fue no tenia permisos para subir cambios al repositorio de 
+        mi compañero. El segundo conflico fue al momento de hacer merge.
+
+        ¿Cómo lo resolviste? Aceptando ambios cambios al hacer el merge en la rama main.
+        
+        ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+        Lo más importante de usar Git en proyectos de programación es:
+
+                1. Control de versiones: Permite rastrear todos los cambios, lo que facilita deshacer errores o volver 
+                a versiones anteriores del proyecto.
+
+                2. Colaboración: Permite a múltiples personas trabajar en el mismo proyecto de manera simultánea sin 
+                interferencias, mediante el uso de ramas.
+
+                3. Seguridad y respaldo: Guarda el código de manera segura, tanto de forma local como remota, lo que 
+                protege el trabajo de pérdidas accidentales.
+
+                4. Ramas: Facilita trabajar en nuevas características o correcciones sin afectar el código principal, 
+                lo que mejora la organización del trabajo.
+
+                5. Revisión y calidad: Facilita la revisión del código entre compañeros, lo que ayuda a mejorar la calidad 
+                del proyecto.
