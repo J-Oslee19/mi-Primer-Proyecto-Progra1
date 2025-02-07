@@ -1,0 +1,24 @@
+Preguntas Jeferson:
+
+1. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Aprendi que git es una herramienta que nos permite trabajar en equipo de manera eficiente.
+Nos permite hacer seguimiento de los cambios realizados.
+Nos permite colaborar con otras personas.
+Nos permite hacer copias de seguridad del código.
+Nos permite revertir cambios si algo sale mal.
+Nos permite crear ramas para trabajar en diferentes funcionalidades.
+
+2. ¿Cómo fue la experiencia de trabajar en parejas?
+Fue una experiencia muy buena, nos ayudó a entender como funciona el flujo de trabajo en git,
+y como nos desempeñamos como equipo para solucionar los problemas que surgieron.
+
+¿Encontraste algún conflicto?
+ Al fusionar las ramas nos dio un problema con mi compañera porque ambos escribimos sobre la misma linea.
+
+ ¿Cómo lo resolviste?
+Lo resolvimos aceptando ambos cambios al hacer el merge a la rama main.
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Que es una herramienta que nos permite trabajar en equipo de manera eficiente.
+Nos permite resguardar versiones de nuestro proyecto.
+Nos permite trabajar en paralelo sin que se pisen los cambios.
